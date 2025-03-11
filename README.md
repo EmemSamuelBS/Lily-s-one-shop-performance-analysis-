@@ -1,4 +1,4 @@
-# Lily-s-one-shop-performance-analysis-
+# Transforming raw data into actionable insights
 A predictive analysis for Lily's one shop food startup 
 
 Lily One Shop is a vibrant food startup dedicated to offering innovative, fresh culinary options to its customers. Facing challenges like fluctuating sales, inventory Management and ever changing business landscape, it was prominent to analyze past performance to enhance future decisions and performance. This project was developed as a concept case study to showcase how Analysis, Visualization, and Storytelling can transform raw data into strategic business insights.
